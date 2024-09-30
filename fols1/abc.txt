@@ -1,0 +1,1 @@
+inside my-git-remo-repo/fols1/abc.txt
